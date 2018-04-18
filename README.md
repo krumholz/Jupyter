@@ -1,2 +1,2 @@
 # Jupyter
-A repository for the Jupyter Notebooks I create.
+A repository for Jupyter Notebooks
