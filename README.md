@@ -1,7 +1,5 @@
 # Jupyter
-A repository for Jupyter Notebooks
-
-Where I explore Jupyter Notebooks through various subjects that interest me.
+A repository for Jupyter Notebooks. Where I explore Jupyter Notebooks through various subjects that interest or inspire me.
 
 **Project: [Solar Production](public/csv-reader%20(total-global-solar-production).ipynb)**
 
