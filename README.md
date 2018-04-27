@@ -3,7 +3,7 @@ A repository for Jupyter Notebooks. Where I explore Jupyter Notebooks through va
 
 **Project: [Tweet Analysis](public/tweet-analysis.ipynb)**
 
-<a href='public/tweet-analysis.ipynb'><img src='https://logos-download.com/wp-content/uploads/2016/02/Twitter_logo_bird_transparent_png.png' alt="Tweet Analysis" width="500"> </a>
+<a href='public/tweet-analysis.ipynb'><img src='https://logos-download.com/wp-content/uploads/2016/02/Twitter_logo_bird_transparent_png.png' alt="Tweet Analysis" width="300"> </a>
 
 **Project: [Solar Production](public/csv-reader%20(total-global-solar-production).ipynb)**
 
